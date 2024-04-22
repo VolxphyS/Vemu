@@ -2,13 +2,13 @@
 A Forked Ryujinx based Nintendo switch emulator. 
 
 
-To set up a Nintendo Switch emulator using Ryujinx on .NET C#, follow these steps:
+To set up a Nintendo Switch emulator using Vemu on .NET C#, follow these steps:
 
 1. **Download .NET**: 
    Visit the [.NET website](https://dotnet.microsoft.com/) to download the .NET SDK.
 
 2. **Download Release_1.0_alpha.zip**:
-   Obtain the Release_1.0_alpha.zip file from the Ryujinx GitHub repository or another trusted source.
+   Obtain the Release_1.0_alpha.zip file from the Vemu GitHub repository or another trusted source.
 
 3. **Unpack the Zip File**:
    Extract the contents of Release_1.0_alpha.zip to a convenient location on your computer.
@@ -21,4 +21,4 @@ To set up a Nintendo Switch emulator using Ryujinx on .NET C#, follow these step
 
 ---
 
-Follow these steps carefully to configure and run the Nintendo Switch emulator using Ryujinx on your .NET environment. Enjoy playing your favorite Switch games on your PC!
+Follow these steps carefully to configure and run the Nintendo Switch emulator using Vemu on your .NET environment. Enjoy playing your favorite Switch games on your PC!
